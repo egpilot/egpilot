@@ -33,8 +33,4 @@
 
 ---
 
-## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egpilot\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egpilot\&layout=compact)
